@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Explo\source\repos\testnetnote\testnetnote\Source.cpp(6,59): error C2664: "BOOL CreateDirectoryW(LPCWSTR,LPSECURITY_ATTRIBUTES)": невозможно преобразовать аргумент 1 из "const char [32]" в "LPCWSTR"
+C:\Users\Explo\source\repos\testnetnote\testnetnote\Source.cpp(6,18): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\fileapi.h(67,1): message : см. объявление "CreateDirectoryW"

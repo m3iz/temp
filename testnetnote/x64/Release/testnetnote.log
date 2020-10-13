@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Explo\source\repos\testnetnote\testnetnote\Source.cpp(45,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Explo\source\repos\testnetnote\testnetnote\Source.cpp(57,48): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Explo\source\repos\testnetnote\testnetnote\Source.cpp(94,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Explo\source\repos\testnetnote\testnetnote\Source.cpp(22,12): warning C4101: size: неиспользованная локальная переменная
+  Создание кода
+  1 of 117 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  testnetnote.vcxproj -> C:\Users\Explo\source\repos\testnetnote\x64\Release\testnetnote.exe
